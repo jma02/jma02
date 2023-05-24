@@ -5,3 +5,6 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
+
+I enjoy web development, financial modeling, and editing my Neovim configuration files.
