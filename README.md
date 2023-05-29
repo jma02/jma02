@@ -6,5 +6,4 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-
-
+Competitive Programming Enjoyer
