@@ -7,4 +7,4 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
-I enjoy web development, competitive programming, and editing my Neovim configuration files.
+
