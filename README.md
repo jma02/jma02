@@ -8,4 +8,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 Competitive Programming Enjoyer
 <br/>
+<a href="https://www.linkedin.com/in/johnma02/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px"/>
+ </a>
