@@ -18,6 +18,6 @@ Competitive Programming Enjoyer
 </a>
   
 <a href="mailto:johnma@udel.edu">
-  <img src="https://icongr.am/octicons/mail.svg?size=40&color=currentColor"/>
+  <img src="https://icongr.am/material/email.svg?size=40&color=c7b8b8"/>
   </a>
 </div>
