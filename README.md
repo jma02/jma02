@@ -7,17 +7,4 @@
 <i>generated with [Platane/snk](https://github.com/Platane/snk)</i>
 
 Competitive Programming Enjoyer
-<br/>
-<div>
-<a href="https://www.linkedin.com/in/johnma02/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px"/>
-</a>
- 
-<a href="https://www.github.com/johnma02/init.lua" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40px" width="40px"/>
-</a>
-  
-<a href="mailto:johnma@udel.edu">
-  <img src="https://icongr.am/material/email.svg?size=40&color=c7b8b8" height="40px" width="40px"/>
-  </a>
-</div>
+
