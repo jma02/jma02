@@ -8,4 +8,4 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 Competitive Programming Enjoyer
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40px" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px"/>
