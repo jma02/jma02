@@ -16,4 +16,8 @@ Competitive Programming Enjoyer
 <a href="https://www.github.com/johnma02/init.lua" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40px" width="40px"/>
 </a>
+  
+<a href="mailto:johnma@udel.edu">
+  <img src="https://icongr.am/octicons/mail.svg?size=40&color=currentColor"/>
+  </a>
 </div>
