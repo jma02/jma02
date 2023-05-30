@@ -4,10 +4,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/johnma02/johnma02/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<i>generated with [Platane/snk](https://github.com/Platane/snk)</i>
 
 Competitive Programming Enjoyer
 <br/>
 <a href="https://www.linkedin.com/in/johnma02/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px"/>
  </a>
+ 
+<a href="https://www.github.com/johnma02/init.lua" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40px" width="40px"/>
+</a>
