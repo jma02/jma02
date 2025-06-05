@@ -8,3 +8,5 @@
 
 Competitive Programming Enjoyer
 
+If you've reached this. Hello! I am Jonathan. I currently study diffusion for PDE inverse problems.
+Welcome to my GitHub!
