@@ -8,5 +8,7 @@
 
 Competitive Programming Enjoyer
 
-If you've reached this. Hello! I am Jonathan. I currently study diffusion for PDE inverse problems.
-Welcome to my GitHub!
+If you've reached this. Hello! I am Jonathan. I currently study inverse problems, MCMC methods,
+diffusion/flow models for applied mathematics problems, and geometry.
+
+Please feel free to reach out about any of my projects.
