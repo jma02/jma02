@@ -8,7 +8,7 @@
 
 Competitive Programming Enjoyer
 
-If you've reached this. Hello! I am Jonathan. I currently study inverse problems, MCMC methods,
+If you've reached this, hello! I am Jonathan. I currently study inverse problems, MCMC methods,
 diffusion/flow models for applied mathematics problems, and geometry.
 
 I'm also an avid competitive programming enjoyer. I'm currently trying to increase my Codeforces rating!
