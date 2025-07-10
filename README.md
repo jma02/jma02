@@ -14,5 +14,8 @@ diffusion/flow models for applied mathematics problems, and geometry.
 I'm also an avid competitive programming enjoyer. I'm currently trying to increase my Codeforces rating!
 Follow my journey here: [https://codeforces.com/profile/jma02](https://codeforces.com/profile/jma02).
 
+Some gists I find useful.
+[https://gist.github.com/jma02](https://gist.github.com/jma02)
+
 Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
