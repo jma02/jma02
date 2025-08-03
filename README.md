@@ -20,4 +20,5 @@ Some gists I find useful.
 Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
-This extra line was added to this README.md file using GitHub copilot from the GitHub mobile app.
+The following joke was generated daily by a SLM.
+Software salesmen and used-car salesmen differ in that the latter know when they are lying.
