@@ -21,4 +21,5 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a SLM.
-Software salesmen and used-car salesmen differ in that the latter know when they are lying.
+The following joke was generated daily a hook written entirely by Copilot.
+What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
