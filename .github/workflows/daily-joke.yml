@@ -35,7 +35,7 @@ jobs:
           head -n -1 README.md > temp_readme.md
           
           # Add the new joke with the required prefix
-          echo "The following joke was generated daily a hook written entirely by Copilot." >> temp_readme.md
+          echo "The following joke was generated daily by a hook written entirely by Copilot." >> temp_readme.md
           echo "$JOKE" >> temp_readme.md
           
           # Replace the original README.md
