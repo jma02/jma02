@@ -22,4 +22,5 @@ My socials are in the sidebar!
 
 The following joke was generated daily by a SLM.
 The following joke was generated daily a hook written entirely by Copilot.
-What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+The following joke was generated daily a hook written entirely by Copilot.
+A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.
