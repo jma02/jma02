@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Sympathy for the Devil is really just about being nice to QAs.
+Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.
