@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
+ASCII stupid question, get a stupid ANSI.
