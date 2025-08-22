@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-!false, (It's funny because it's true)
+There are II types of people: Those who understand Roman Numerals and those who don't.
