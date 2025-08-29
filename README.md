@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+Unix is user friendly. It's just very particular about who its friends are.
