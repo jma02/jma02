@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Unix is user friendly. It's just very particular about who its friends are.
+Pirates go 'arg!', computer pirates go 'argv!'
