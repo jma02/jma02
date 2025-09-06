@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-I've been using Vim for a long time now, mainly because I can't figure out how to exit.
+In C we had to code our own bugs. In C++ we can inherit them.
