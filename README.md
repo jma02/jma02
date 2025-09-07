@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-In C we had to code our own bugs. In C++ we can inherit them.
+Ubuntu users are apt to get this joke.
