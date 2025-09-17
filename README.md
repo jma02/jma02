@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-ASCII stupid question, get a stupid ANSI.
+How many programmers does it take to change a lightbulb? None, they just make darkness a standard.
