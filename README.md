@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Pirates go 'arg!', computer pirates go 'argv!'
+There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
