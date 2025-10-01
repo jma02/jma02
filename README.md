@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+How many programmers does it take to change a lightbulb? None, that's a hardware problem.
