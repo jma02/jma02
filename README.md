@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Java: Write once, run away.
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
