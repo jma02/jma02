@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-A programmer crashes a car at the bottom of a hill, a bystander asks what happened, he says "No idea. Let's push it back up and try again".
+Why did the QA cross the road? To ruin everyone's day.
