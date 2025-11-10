@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Pirates go 'arg!', computer pirates go 'argv!'
+The C language combines all the power of assembly language with all the ease-of-use of assembly language.
