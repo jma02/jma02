@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Hardware: The part of a computer that you can kick.
+How do you know whether a person is a Vim user? Don't worry, they'll tell you.
