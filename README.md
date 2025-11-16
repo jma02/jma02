@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
