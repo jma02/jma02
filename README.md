@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
+Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
