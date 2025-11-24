@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Old C programmers don't die, they're just cast into void.
+There are two ways to write error-free programs; only the third one works.
