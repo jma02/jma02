@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-.NET was named .NET so that it wouldn't show up in a Unix directory listing.
+Pirates go 'arg!', computer pirates go 'argv!'
