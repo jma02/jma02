@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-What do you get when you cross a cat and a dog? Cat dog sin theta.
+Ubuntu users are apt to get this joke.
