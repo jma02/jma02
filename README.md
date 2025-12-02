@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-To understand recursion you must first understand recursion.
+There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
