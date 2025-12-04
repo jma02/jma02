@@ -21,4 +21,4 @@ Please feel free to reach out about any of my projects.
 My socials are in the sidebar!
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
+Number of days since I have encountered an off-by-one error: 0.
