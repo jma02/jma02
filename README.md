@@ -11,8 +11,5 @@ Competitive Programming Enjoyer
 Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
-Please feel free to reach out about any of my projects.
-My socials are in the sidebar!
-
 The following joke was generated daily by a hook written entirely by Copilot.
 What's the object-oriented way to become wealthy? Inheritance.
