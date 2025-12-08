@@ -8,12 +8,6 @@
 
 Competitive Programming Enjoyer
 
-If you've reached this, hello! I am Jonathan. I currently study inverse problems, MCMC methods,
-diffusion/flow models for applied mathematics problems. I am also currently interested in learning RL for robotics.
-
-I'm an avid competitive programming enjoyer. I'm currently trying to increase my Codeforces rating!
-Follow my journey here: [https://codeforces.com/profile/jma02](https://codeforces.com/profile/jma02).
-
 Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
