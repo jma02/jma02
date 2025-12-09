@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-The C language combines all the power of assembly language with all the ease-of-use of assembly language.
+Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
