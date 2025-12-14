@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+Pirates go 'arg!', computer pirates go 'argv!'
