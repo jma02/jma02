@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-In C we had to code our own bugs. In C++ we can inherit them.
+Old C programmers don't die, they're just cast into void.
