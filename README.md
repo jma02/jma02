@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-I've been using Vim for a long time now, mainly because I can't figure out how to exit.
+Real programmers can write assembly code in any language.
