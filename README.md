@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
+Why do Java programmers have to wear glasses? Because they don't see sharp.
