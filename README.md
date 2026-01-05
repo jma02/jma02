@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
+Number of days since I have encountered an off-by-one error: 0.
