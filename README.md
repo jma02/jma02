@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Waiter: Would you like coffee or tea? Programmer: Yes.
+Why did the QA cross the road? To ruin everyone's day.
