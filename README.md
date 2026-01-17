@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
+I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
