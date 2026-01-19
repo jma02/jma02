@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.
+Obfuscated Reality Mappers (ORMs) can be useful database tools.
