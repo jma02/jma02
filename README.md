@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-When your hammer is C++, everything begins to look like a thumb.
+What's the object-oriented way to become wealthy? Inheritance.
