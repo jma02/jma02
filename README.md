@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-What's the object-oriented way to become wealthy? Inheritance.
+Why do sin and tan work? Just cos.
