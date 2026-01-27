@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Why do sin and tan work? Just cos.
+What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
