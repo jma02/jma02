@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
