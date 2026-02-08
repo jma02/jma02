@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Pirates go 'arg!', computer pirates go 'argv!'
+Why did the programmer quit his job? Because he didn't get arrays.
