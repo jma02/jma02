@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Why did Microsoft name their search engine BING? Because It's Not Google.
+Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.
