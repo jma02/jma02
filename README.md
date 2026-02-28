@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-['hip', 'hip'] (hip hip array!)
+What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
