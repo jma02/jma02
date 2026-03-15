@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Finding a good PHP developer is like looking for a needle in a haystack. Or is it a hackstack in a needle?
+A programmer walks into a foo...
