@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-A programmer walks into a foo...
+How come there is no obfuscated Perl contest? Because everyone would win.
