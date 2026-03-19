@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'
+I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.
