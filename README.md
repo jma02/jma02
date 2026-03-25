@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Hardware: The part of a computer that you can kick.
+When your hammer is C++, everything begins to look like a thumb.
