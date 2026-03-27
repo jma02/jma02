@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-How many Prolog programmers does it take to change a lightbulb? false.
+Unix is user friendly. It's just very particular about who its friends are.
