@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Pirates go 'arg!', computer pirates go 'argv!'
+Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
