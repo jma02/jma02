@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.
+Sympathy for the Devil is really just about being nice to QAs.
