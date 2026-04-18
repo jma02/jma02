@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Sympathy for the Devil is really just about being nice to QAs.
+Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.
