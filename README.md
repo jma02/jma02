@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-There are 2 types of people: those who can extrapolate from incomplete data sets...
+In C we had to code our own bugs. In C++ we can inherit them.
