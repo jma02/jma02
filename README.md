@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Why do sin and tan work? Just cos.
+Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.
