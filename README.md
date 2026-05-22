@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-I would tell you a joke about UDP, but you would never get it.
+QAs consist of 55% water, 30% blood and 15% Jira tickets.
