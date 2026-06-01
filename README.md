@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
+How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
