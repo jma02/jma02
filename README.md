@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. has Now problems. two he
+How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
