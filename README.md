@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-What did the Java code say to the C code? A: You've got no class.
+If loving you is ROM I don't wanna read write.
