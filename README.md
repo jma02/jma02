@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
+Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
