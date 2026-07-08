@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-There are 10 types of people: those who understand binary and those who don't.
+How many programmers does it take to change a lightbulb? None, that's a hardware problem.
