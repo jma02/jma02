@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
+QAs consist of 55% water, 30% blood and 15% Jira tickets.
