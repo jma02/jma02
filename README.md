@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Why did Microsoft name their search engine BING? Because It's Not Google.
+.NET was named .NET so that it wouldn't show up in a Unix directory listing.
