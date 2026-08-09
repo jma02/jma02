@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+Software developers like to solve problems. If there are no problems handily available, they will create their own.
