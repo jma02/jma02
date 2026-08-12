@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-!false, (It's funny because it's true)
+Why do Java programmers have to wear glasses? Because they don't see sharp.
