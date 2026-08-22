@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
+There are 10 types of people: those who understand hexadecimal and 15 others.
