@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
