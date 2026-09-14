@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Software developers like to solve problems. If there are no problems handily available, they will create their own.
+The C language combines all the power of assembly language with all the ease-of-use of assembly language.
