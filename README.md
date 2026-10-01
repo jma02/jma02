@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-Why are you always smiling? That's just my... regular expression.
+['hip', 'hip'] (hip hip array!)
