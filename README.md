@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-What do you mean 911 is only for emergencies? I've got a merge conflict.
+My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!
