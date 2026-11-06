@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.
+A programmer walks into a foo...
