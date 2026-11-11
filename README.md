@@ -12,4 +12,4 @@ Some gists I find useful.
 [https://gist.github.com/jma02](https://gist.github.com/jma02)
 
 The following joke was generated daily by a hook written entirely by Copilot.
-There are 2 types of people: those who can extrapolate from incomplete data sets...
+How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
