@@ -13,6 +13,11 @@ on:
     branches:
       - main
 
+# Serialize updates to the generated-assets branch.
+concurrency:
+  group: profile-snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
